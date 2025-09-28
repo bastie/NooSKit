@@ -1,4 +1,8 @@
 # OS
 .DS_Store
 
+# Swift
+.swiftpm
+.build
+
 # EOF
